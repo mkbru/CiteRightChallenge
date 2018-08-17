@@ -7,13 +7,15 @@ This is the solution I created to the coding excercise provided by CiteRight.
 
 ### Installing
   
-  - [x] Clone the Repo -> https://github.com/mkbru/citeRightChallenge.git
+  - [x] Clone the Repo -> https://github.com/mkbru/CiteRightChallenge.git
   
+    `git clone https://github.com/mkbru/CiteRightChallenge.git`
   
  ## Deployment
  
   1. ### <b>Navigate to the citeRightChallenge directory</b>
-  
+     ```cd CiteRightChallenge```
+    
   2. ### Install all modules listed as dependencies in package.json:
   
      ```npm install```
