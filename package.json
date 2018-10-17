@@ -1,7 +1,7 @@
 {
-  "name": "citeright",
+  "name": "currencyconversionapi",
   "version": "1.0.0",
-  "description": "CiteRight coding challenge",
+  "description": "CurrencyConversionAPI",
   "main": "app.js",
   "scripts": {
     "test": "node_modules/.bin/mocha",
